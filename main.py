@@ -1,5 +1,4 @@
 import requests
-
 base_url = 'https://www.shl.se/'
 shl_standing_path = 'p/api/statistics/standings_standings?ssgtUuid=qZl-8qb98ZuHk&count=25'
 
