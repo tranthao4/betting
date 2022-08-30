@@ -22,4 +22,4 @@ if __name__ == '__main__':
 
     #print(Team.get_team_stats(team_code='RBK'))
 
-    Team.get_team_results()
+    Team.get_team_results('RBK')
